@@ -9,6 +9,7 @@ using System.Net;
 using System.IO;
 
 //  c'est un lib pas un projet domc juste du code a tester
+// en mode projet fonctionne bien et affiche un contenu de l'API.
 namespace streamer
 {
 
